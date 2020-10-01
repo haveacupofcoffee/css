@@ -1,0 +1,21 @@
+p{
+    color: red;
+    text-align: center;
+}
+
+#para1{
+    color: black;
+    text-align: left;
+}
+
+.right{
+    color: aquamarine;
+    text-align: right;
+}
+
+h1.center{
+    color: blue;
+    text-align: center;
+}
+
+
